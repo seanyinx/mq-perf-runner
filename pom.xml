@@ -16,7 +16,7 @@
   <properties>
     <java.version>1.8</java.version>
     <slf4j.version>1.7.25</slf4j.version>
-    <log4j.version>2.10.0</log4j.version>
+    <log4j.version>2.16.0</log4j.version>
     <disruptor.version>3.3.6</disruptor.version>
   </properties>
 
